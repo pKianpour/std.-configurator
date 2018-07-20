@@ -34,7 +34,7 @@ public class MultipleAxesLineChart extends StackPane {
 	private final double yAxisWidth = 60;
 	private final AnchorPane detailsWindow;
 	
-	private final double yAxisSeparation = 20;
+	private final double yAxisSeparation = 10;
 	private double strokeWidth = 0.3;
 	
 	public MultipleAxesLineChart(LineChart baseChart, Color lineColour) {
